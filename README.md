@@ -1,1 +1,1 @@
-# STEM Egypt Hack Club Website
+# JWH Hack Club Website
